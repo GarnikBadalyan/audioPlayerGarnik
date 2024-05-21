@@ -31,7 +31,9 @@ let data = {
        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvU_Ed6JPArFut65W_pKNhxaxtAfJzZ7ypw&s",
        "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZ5bEN3rClPEtflZ8o_CYp9bMppF9zwW5MQu8LwhgZA&s",
-       "https://cdn.britannica.com/98/214598-050-9879F2FA/giant-sequoia-tree-Sequoia-National-Park-California.jpg"
+       "https://cdn.britannica.com/98/214598-050-9879F2FA/giant-sequoia-tree-Sequoia-National-Park-California.jpg",
+       "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2019/08/03091106/Trees-1024x682.jpg",
+       "https://i1.sndcdn.com/artworks-000229424914-crls55-t500x500.jpg"
     ],
 }
 
